@@ -1,5 +1,23 @@
 let projects = [
   {
+    name: "Expense Tracker",
+    imgsrc: "./images/ExpenseTracker.png",
+    github: "https://github.com/ayushmangarg2003/ExpenseTrackerReact",
+    website: "https://expense-tracker-react-eight.vercel.app/",
+    tags: "ReactJs",
+    month: "DEC",
+    year: "2022",
+  },
+  {
+    name: "Hackaton Project",
+    imgsrc: "./images/UserInterface.png",
+    github: "https://github.com/ayushmangarg2003/UserInterface",
+    website: "https://user-interface-beta.vercel.app/",
+    tags: "Firebase",
+    month: "DEC",
+    year: "2022",
+  },
+  {
     name: "TravelArc",
     imgsrc: "./images/TravelArc.png",
     github: "https://github.com/ayushmangarg2003/TravelArc",
