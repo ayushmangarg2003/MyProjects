@@ -1,5 +1,32 @@
 let projects = [
   {
+    name: "Crypto Exchange",
+    imgsrc: "./images/CryptoExchangeApp.png",
+    github: "https://github.com/ayushmangarg2003/crypto-exchange-react-app",
+    website: "https://crypto-exchange-react-app.vercel.app/",
+    tags: "ReactJs",
+    month: "JAN",
+    year: "2023",
+  },
+  {
+    name: "MeTube",
+    imgsrc: "./images/MeTube.png",
+    github: "https://github.com/ayushmangarg2003/MeTube-React-ChakraUi",
+    website: "https://me-tube-react-chakra-ui.vercel.app/",
+    tags: "ReactJs",
+    month: "JAN",
+    year: "2023",
+  },
+  {
+    name: "TechGuy",
+    imgsrc: "./images/TechGuy.png",
+    github: "https://github.com/ayushmangarg2003/Responsive-React-Homepage",
+    website: "https://responsive-react-homepage.vercel.app/",
+    tags: "SCSS",
+    month: "JAN",
+    year: "2023",
+  },
+  {
     name: "Expense Tracker",
     imgsrc: "./images/ExpenseTracker.png",
     github: "https://github.com/ayushmangarg2003/ExpenseTrackerReact",
