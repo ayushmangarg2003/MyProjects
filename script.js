@@ -282,8 +282,8 @@ projects.forEach((Element) => {
         <img src="${Element.imgsrc}" alt="">
         <h4 class="project-name">${Element.name}</h4>
         <div class="buttons">
-            <button class="btn"><a href= "${Element.github}" target= "_blank">Github Link</a></button>
-            <button class="btn"><a href= "${Element.website}" target= "_blank">Website Link</a></button>
+            <button class="btn"><a href= "${Element.github}" target= "_blank">Code</a></button>
+            <button class="btn"><a href= "${Element.website}" target= "_blank">Live Demo</a></button>
         </div> 
         <div class="date">${Element.month}, ${Element.year}</div>`;
   cardEl.classList.add("card");
