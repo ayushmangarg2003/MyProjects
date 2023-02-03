@@ -1,5 +1,14 @@
 let projects = [
   {
+    name: "Web Agent",
+    imgsrc: "./images/WebAgent.png",
+    github: "https://github.com/ayushmangarg2003/web-agent-react-styled-components",
+    website: "https://web-agent-react-styled-components.vercel.app/",
+    tags: "ReactJs",
+    month: "JAN",
+    year: "2023",
+  },
+  {
     name: "Crypto Exchange",
     imgsrc: "./images/CryptoExchangeApp.png",
     github: "https://github.com/ayushmangarg2003/crypto-exchange-react-app",
