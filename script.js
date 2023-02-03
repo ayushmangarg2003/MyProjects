@@ -9,6 +9,15 @@ let projects = [
     year: "2023",
   },
   {
+    name: "Portfolio",
+    imgsrc: "./images/ReactPortfolio.png",
+    github: "https://github.com/ayushmangarg2003/ayushmangarg",
+    website: "https://ayushmangarg.vercel.app/",
+    tags: "ReactJs",
+    month: "JAN",
+    year: "2023",
+  },
+  {
     name: "Crypto Exchange",
     imgsrc: "./images/CryptoExchangeApp.png",
     github: "https://github.com/ayushmangarg2003/crypto-exchange-react-app",
