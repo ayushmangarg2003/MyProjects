@@ -4,7 +4,7 @@ let projects = [
     imgsrc: "./images/code-editor.png",
     github: "https://github.com/ayushmangarg2003/Code_Editor",
     website: "https://ayushmangarg2003.github.io/Code_Editor/",
-    tags: "Javascript",
+    tags: "Javascript ",
     month: "FEB",
     year: "2023",
   },
