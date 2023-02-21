@@ -1,5 +1,14 @@
 let projects = [
   {
+    name: "Code Editor",
+    imgsrc: "./images/code-editor.png",
+    github: "https://github.com/ayushmangarg2003/Code_Editor",
+    website: "https://ayushmangarg2003.github.io/Code_Editor/",
+    tags: "Javascript",
+    month: "FEB",
+    year: "2023",
+  },
+  {
     name: "Web Agent",
     imgsrc: "./images/WebAgent.png",
     github: "https://github.com/ayushmangarg2003/web-agent-react-styled-components",
