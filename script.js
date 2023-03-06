@@ -1,5 +1,14 @@
 let projects = [
   {
+    name: "Food Go",
+    imgsrc: "./images/FoodGo.png",
+    github: "https://github.com/ayushmangarg2003/food_go_mern_frontend",
+    website: "https://food-go-mern-frontend.vercel.app/",
+    tags: "MERN",
+    month: "Mar",
+    year: "2023",
+  },
+  {
     name: "Code Editor",
     imgsrc: "./images/code-editor.png",
     github: "https://github.com/ayushmangarg2003/Code_Editor",
