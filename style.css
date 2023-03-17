@@ -95,8 +95,11 @@ html{
     background-color: #212121;
     transition: 0.3s ease;
 }
-.btn:hover , .btn2:hover{
+.btn:hover{
     background-color: #32CD32;
+}
+.btn2:hover{
+    background-color:#fff
 }
 .btn:hover a , .btn2:hover a{
     color: #212121;
