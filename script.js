@@ -1,5 +1,14 @@
 let projects = [
   {
+    name: "Workout App",
+    imgsrc: "./images/Workout.png",
+    github: "https://github.com/ayushmangarg2003/Workout_app_MERN",
+    website: "https://workout-app-mern.vercel.app/",
+    tags: "MERN",
+    month: "April",
+    year: "2023",
+  },
+  {
     name: "Food Go",
     imgsrc: "./images/FoodGo.png",
     github: "https://github.com/ayushmangarg2003/food_go_mern_frontend",
