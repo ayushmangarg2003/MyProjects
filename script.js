@@ -1,13 +1,13 @@
 let projects = [
-//   {
-//     name: "TrueBlog",
-//     imgsrc: "./images/trueblog.png",
-//     github: "https://github.com/ayushmangarg2003/Blogs_MySQL",
-//     website: "https://blogs-my-sql.vercel.app/",
-//     tags: "MySQL",
-//     month: "April",
-//     year: "2023",
-//   },
+  {
+    name: "TrueBlog",
+    imgsrc: "./images/trueblog.png",
+    github: "https://github.com/ayushmangarg2003/Blogs_MySQL",
+    website: "https://blogs-my-sql.vercel.app/",
+    tags: "MySQL",
+    month: "April",
+    year: "2023",
+  },
   {
     name: "Workout App",
     imgsrc: "./images/Workout.png",
