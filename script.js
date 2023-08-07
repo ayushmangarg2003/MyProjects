@@ -1,4 +1,14 @@
 let projects = [
+  
+  {
+    name: "Portfolio",
+    imgsrc: "./images/portfolio.png",
+    github: "https://github.com/ayushmangarg2003/personal_portfolio",
+    website: "https://ayushman.vercel.app/",
+    tags: "ReactJS",
+    month: "August",
+    year: "2023",
+  },
   {
     name: "TrueBlog",
     imgsrc: "./images/trueblog.png",
