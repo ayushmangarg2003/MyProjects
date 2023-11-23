@@ -1,6 +1,15 @@
 let projects = [
   
   {
+    name: "DocCARE",
+    imgsrc: "./images/doccare.png",
+    github: "https://github.com/ayushmangarg2003/BookDoc",
+    website: "https://book-doc.vercel.app/",
+    tags: "MERN",
+    month: "November",
+    year: "2023",
+  },
+  {
     name: "Portfolio",
     imgsrc: "./images/portfolio.png",
     github: "https://github.com/ayushmangarg2003/personal_portfolio",
