@@ -1,5 +1,13 @@
 let projects = [
-  
+   {
+    name: "Blogs App",
+    imgsrc: "./images/trueblog.png",
+    github: "https://github.com/ayushmangarg2003/Blogs_MERN",
+    website: "https://blogs-mern-pi.vercel.app/",
+    tags: "MERN",
+    month: "December",
+    year: "2023",
+  },
   {
     name: "DocCARE",
     imgsrc: "./images/doccare.png",
