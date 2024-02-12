@@ -1,5 +1,23 @@
 let projects = [
    {
+    name: "Youtube Summarizer",
+    imgsrc: "./images/YTT.png",
+    github: "https://github.com/ayushmangarg2003/YT_Video_Summarizer",
+    website: "https://ytvideosummarizer.streamlit.app/",
+    tags: "Machine Learning",
+    month: "February",
+    year: "2024",
+  },
+   {
+    name: "Calorie Counter",
+    imgsrc: "./images/CalCounter.png",
+    github: "https://github.com/ayushmangarg2003/Cal_Counter_GeminiVision",
+    website: "https://caloriescounter.streamlit.app/",
+    tags: "Machine Learning",
+    month: "January",
+    year: "2024",
+  },
+   {
     name: "Blogs App",
     imgsrc: "./images/trueblog.png",
     github: "https://github.com/ayushmangarg2003/Blogs_MERN",
