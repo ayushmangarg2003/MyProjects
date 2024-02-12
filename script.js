@@ -53,6 +53,43 @@ let projects = [
     month: "August",
     year: "2023",
   },
+  
+  {
+    name: "Blogs-Mobile",
+    imgsrc: "./images/Blogs_Mob.png",
+    github: "https://github.com/ayushmangarg2003/blogs_mobile",
+    website: "https://www.linkedin.com/posts/ayushmangarg_reactnative-nodejs-mongodb-activity-7100354878492868609-PP27?utm_source=share&utm_medium=member_desktop",
+    tags: "React Native",
+    month: "August",
+    year: "2023",
+  },
+  {
+    name: "TravelArc-Mobile",
+    imgsrc: "./images/TA_Mobile.png",
+    github: "https://github.com/ayushmangarg2003/TravelArc-Mobile",
+    website: "https://github.com/ayushmangarg2003/TravelArc-Mobile",
+    tags: "React Native",
+    month: "August",
+    year: "2023",
+  },
+  {
+    name: "Currency Converter",
+    imgsrc: "./images/CCReactnative.png",
+    github: "https://github.com/ayushmangarg2003/currency_converter_react_native",
+    website: "https://github.com/ayushmangarg2003/currency_converter_react_native",
+    tags: "React Native",
+    month: "July",
+    year: "2023",
+  },
+  {
+    name: "Password Generator",
+    imgsrc: "./images/PassGen.png",
+    github: "https://github.com/ayushmangarg2003/Password-Generator-ReactNative",
+    website: "https://github.com/ayushmangarg2003/Password-Generator-ReactNative",
+    tags: "React Native",
+    month: "June",
+    year: "2023",
+  },
   {
     name: "TrueBlog",
     imgsrc: "./images/trueblog.png",
@@ -391,7 +428,7 @@ projects.forEach((Element) => {
         <h4 class="project-name">${Element.name}</h4>
         <div class="buttons">
             <button class="btn"><a href= "${Element.github}" target= "_blank">Code</a></button>
-            <button class="btn"><a href= "${Element.website}" target= "_blank">Live Demo</a></button>
+            <button class="btn"><a href= "${Element.website}" target= "_blank">Demo</a></button>
         </div> 
         <div class="date">${Element.month}, ${Element.year}</div>`;
   cardEl.classList.add("card");
