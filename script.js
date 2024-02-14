@@ -1,7 +1,7 @@
 let projects = [
    {
     name: "Youtube Summarizer",
-    imgsrc: "./images/YTT.png",
+    imgsrc: "./images/YTT.webp",
     github: "https://github.com/ayushmangarg2003/YT_Video_Summarizer",
     website: "https://ytvideosummarizer.streamlit.app/",
     tags: "Machine Learning",
@@ -10,7 +10,7 @@ let projects = [
   },
    {
     name: "Calorie Counter",
-    imgsrc: "./images/CalCounter.png",
+    imgsrc: "./images/CalCounter.webp",
     github: "https://github.com/ayushmangarg2003/Cal_Counter_GeminiVision",
     website: "https://caloriescounter.streamlit.app/",
     tags: "Machine Learning",
@@ -19,7 +19,7 @@ let projects = [
   },
   {
     name: "Currency Bot",
-    imgsrc: "./images/CurrCon.png",
+    imgsrc: "./images/CurrCon.webp",
     github: "https://github.com/ayushmangarg2003/currency-converter-bot/",
     website: "https://web.telegram.org/k/#@AyushmanCurrencyBot",
     tags: "Dialog Flow",
@@ -28,7 +28,7 @@ let projects = [
   },
    {
     name: "Blogs App",
-    imgsrc: "./images/MERNBLOG.png",
+    imgsrc: "./images/MERNBLOG.webp",
     github: "https://github.com/ayushmangarg2003/Blogs_MERN",
     website: "https://blogs-mern-pi.vercel.app/",
     tags: "MERN",
@@ -37,7 +37,7 @@ let projects = [
   },
   {
     name: "DocCARE",
-    imgsrc: "./images/doccare.png",
+    imgsrc: "./images/doccare.webp",
     github: "https://github.com/ayushmangarg2003/BookDoc",
     website: "https://book-doc.vercel.app/",
     tags: "MERN",
@@ -46,7 +46,7 @@ let projects = [
   },
   {
     name: "Portfolio",
-    imgsrc: "./images/portfolio.png",
+    imgsrc: "./images/portfolio.webp",
     github: "https://github.com/ayushmangarg2003/personal_portfolio",
     website: "https://ayushman.vercel.app/",
     tags: "ReactJS",
@@ -56,7 +56,7 @@ let projects = [
   
   {
     name: "Blogs-Mobile",
-    imgsrc: "./images/Blogs_Mob.png",
+    imgsrc: "./images/Blogs_Mob.webp",
     github: "https://github.com/ayushmangarg2003/blogs_mobile",
     website: "https://www.linkedin.com/posts/ayushmangarg_reactnative-nodejs-mongodb-activity-7100354878492868609-PP27?utm_source=share&utm_medium=member_desktop",
     tags: "React Native",
@@ -65,7 +65,7 @@ let projects = [
   },
   {
     name: "TravelArc-Mobile",
-    imgsrc: "./images/TA_Mobile.png",
+    imgsrc: "./images/TA_Mobile.webp",
     github: "https://github.com/ayushmangarg2003/TravelArc-Mobile",
     website: "https://github.com/ayushmangarg2003/TravelArc-Mobile",
     tags: "React Native",
@@ -74,7 +74,7 @@ let projects = [
   },
   {
     name: "Currency Converter",
-    imgsrc: "./images/CCReactnative.png",
+    imgsrc: "./images/CCReactnative.webp",
     github: "https://github.com/ayushmangarg2003/currency_converter_react_native",
     website: "https://github.com/ayushmangarg2003/currency_converter_react_native",
     tags: "React Native",
@@ -83,7 +83,7 @@ let projects = [
   },
   {
     name: "Password Generator",
-    imgsrc: "./images/PassGen.png",
+    imgsrc: "./images/PassGen.webp",
     github: "https://github.com/ayushmangarg2003/Password-Generator-ReactNative",
     website: "https://github.com/ayushmangarg2003/Password-Generator-ReactNative",
     tags: "React Native",
@@ -92,7 +92,7 @@ let projects = [
   },
   {
     name: "TrueBlog",
-    imgsrc: "./images/trueblog.png",
+    imgsrc: "./images/trueblog.webp",
     github: "https://github.com/ayushmangarg2003/Blogs_MySQL",
     website: "https://blogs-my-sql.vercel.app/",
     tags: "MySQL",
@@ -101,7 +101,7 @@ let projects = [
   },
   {
     name: "Workout App",
-    imgsrc: "./images/Workout.png",
+    imgsrc: "./images/Workout.webp",
     github: "https://github.com/ayushmangarg2003/Workout_app_MERN",
     website: "https://workout-app-mern.vercel.app/",
     tags: "MERN",
@@ -110,7 +110,7 @@ let projects = [
   },
   {
     name: "Food Go",
-    imgsrc: "./images/FoodGo.png",
+    imgsrc: "./images/FoodGo.webp",
     github: "https://github.com/ayushmangarg2003/food_go_mern_frontend",
     website: "https://food-go-mern-frontend.vercel.app/",
     tags: "MERN",
@@ -119,7 +119,7 @@ let projects = [
   },
   {
     name: "Code Editor",
-    imgsrc: "./images/code-editor.png",
+    imgsrc: "./images/code-editor.webp",
     github: "https://github.com/ayushmangarg2003/Code_Editor",
     website: "https://ayushmangarg2003.github.io/Code_Editor/",
     tags: "Javascript ",
@@ -128,7 +128,7 @@ let projects = [
   },
   {
     name: "Web Agent",
-    imgsrc: "./images/WebAgent.png",
+    imgsrc: "./images/WebAgent.webp",
     github: "https://github.com/ayushmangarg2003/web-agent-react-styled-components",
     website: "https://web-agent-react-styled-components.vercel.app/",
     tags: "ReactJs",
@@ -137,7 +137,7 @@ let projects = [
   },
   {
     name: "Portfolio",
-    imgsrc: "./images/ReactPortfolio.png",
+    imgsrc: "./images/ReactPortfolio.webp",
     github: "https://github.com/ayushmangarg2003/ayushmangarg",
     website: "https://ayushmangarg.vercel.app/",
     tags: "ReactJs",
@@ -146,7 +146,7 @@ let projects = [
   },
   {
     name: "Crypto Exchange",
-    imgsrc: "./images/CryptoExchangeApp.png",
+    imgsrc: "./images/CryptoExchangeApp.webp",
     github: "https://github.com/ayushmangarg2003/crypto-exchange-react-app",
     website: "https://crypto-exchange-react-app.vercel.app/",
     tags: "ReactJs",
@@ -155,7 +155,7 @@ let projects = [
   },
   {
     name: "MeTube",
-    imgsrc: "./images/MeTube.png",
+    imgsrc: "./images/MeTube.webp",
     github: "https://github.com/ayushmangarg2003/MeTube-React-ChakraUi",
     website: "https://me-tube-react-chakra-ui.vercel.app/",
     tags: "ReactJs",
@@ -164,7 +164,7 @@ let projects = [
   },
   {
     name: "TechGuy",
-    imgsrc: "./images/TechGuy.png",
+    imgsrc: "./images/TechGuy.webp",
     github: "https://github.com/ayushmangarg2003/Responsive-React-Homepage",
     website: "https://responsive-react-homepage.vercel.app/",
     tags: "SCSS",
@@ -173,7 +173,7 @@ let projects = [
   },
   {
     name: "Expense Tracker",
-    imgsrc: "./images/ExpenseTracker.png",
+    imgsrc: "./images/ExpenseTracker.webp",
     github: "https://github.com/ayushmangarg2003/ExpenseTrackerReact",
     website: "https://expense-tracker-react-eight.vercel.app/",
     tags: "ReactJs",
@@ -182,7 +182,7 @@ let projects = [
   },
   {
     name: "Hackaton Project",
-    imgsrc: "./images/UserInterface.png",
+    imgsrc: "./images/UserInterface.webp",
     github: "https://github.com/ayushmangarg2003/UserInterface",
     website: "https://user-interface-beta.vercel.app/",
     tags: "Firebase",
@@ -191,7 +191,7 @@ let projects = [
   },
   {
     name: "TravelArc",
-    imgsrc: "./images/TravelArc.png",
+    imgsrc: "./images/TravelArc.webp",
     github: "https://github.com/ayushmangarg2003/TravelArc",
     website: "https://travel-arc.vercel.app/",
     tags: "ReactJs",
@@ -200,7 +200,7 @@ let projects = [
   },
   {
     name: "Memory Game",
-    imgsrc: "./images/MemoryGame.png",
+    imgsrc: "./images/MemoryGame.webp",
     github: "https://github.com/ayushmangarg2003/MemoryGame",
     website: "https://ayushmangarg2003.github.io/MemoryGame/",
     tags: "Javascript",
@@ -209,7 +209,7 @@ let projects = [
   },
   {
     name: "TicTacToe",
-    imgsrc: "./images/TicTacToe.png",
+    imgsrc: "./images/TicTacToe.webp",
     github: "https://github.com/ayushmangarg2003/TicTacToe",
     website: "https://ayushmangarg2003.github.io/TicTacToe/",
     tags: "Javascript",
@@ -218,7 +218,7 @@ let projects = [
   },
   {
     name: "VibeTypeApp",
-    imgsrc: "./images/VibeTypeApp.png",
+    imgsrc: "./images/VibeTypeApp.webp",
     github: "https://github.com/ayushmangarg2003/VibeTypeApp",
     website: "https://ayushmangarg2003.github.io/VibeTypeApp/",
     tags: "ReactJs",
@@ -227,7 +227,7 @@ let projects = [
   },
   {
     name: "Weather App",
-    imgsrc: "./images/WeatherApp.png",
+    imgsrc: "./images/WeatherApp.webp",
     github: "https://github.com/ayushmangarg2003/WeatherApp",
     website: "https://ayushmangarg2003.github.io/WeatherApp/",
     tags: "Javascript",
@@ -236,7 +236,7 @@ let projects = [
   },
   {
     name: "Food Recipe App",
-    imgsrc: "./images/FoodRecipe.png",
+    imgsrc: "./images/FoodRecipe.webp",
     github: "https://github.com/ayushmangarg2003/FoodRecipeApp",
     website: "https://ayushmangarg2003.github.io/FoodRecipeApp/",
     tags: "Javascript",
@@ -245,7 +245,7 @@ let projects = [
   },
   {
     name: "Movie Review App",
-    imgsrc: "./images/MovieReview.png",
+    imgsrc: "./images/MovieReview.webp",
     github: "https://github.com/ayushmangarg2003/MovieReviewApp",
     website: "https://ayushmangarg2003.github.io/MovieReviewApp/",
     tags: "Javascript",
@@ -254,7 +254,7 @@ let projects = [
   },
   {
     name: "Name It",
-    imgsrc: "./images/NameIt.png",
+    imgsrc: "./images/NameIt.webp",
     github: "https://github.com/ayushmangarg2003/NameIt",
     website: "https://ayushmangarg2003.github.io/NameIt/",
     tags: "React",
@@ -263,7 +263,7 @@ let projects = [
   },
   {
     name: "Personal Portfolio",
-    imgsrc: "./images/PersonalPorfolio.png",
+    imgsrc: "./images/PersonalPorfolio.webp",
     github: "https://github.com/ayushmangarg2003/PersonalPortfolio",
     website: "https://ayushmangarg2003.github.io/PersonalPortfolio/",
     tags: "CSS",
@@ -272,7 +272,7 @@ let projects = [
   },
   {
     name: "Binary Brains",
-    imgsrc: "./images/BinaryBrains.png",
+    imgsrc: "./images/BinaryBrains.webp",
     github: "https://github.com/ayushmangarg2003/BinaryBrains",
     website: "https://ayushmangarg2003.github.io/BinaryBrains/",
     tags: "CSS",
@@ -281,7 +281,7 @@ let projects = [
   },
   {
     name: "Karobar Website",
-    imgsrc: "./images/Karobar.png",
+    imgsrc: "./images/Karobar.webp",
     github: "https://github.com/ayushmangarg2003/karobarwebsite",
     website: "https://ayushmangarg2003.github.io/karobarwebsite/",
     tags: "CSS",
@@ -290,7 +290,7 @@ let projects = [
   },
   {
     name: "Pocket Mart",
-    imgsrc: "./images/PocketMart.png",
+    imgsrc: "./images/PocketMart.webp",
     github: "https://github.com/ayushmangarg2003/PocketMart",
     website: "https://ayushmangarg2003.github.io/PocketMart/",
     tags: "CSS",
@@ -299,7 +299,7 @@ let projects = [
   },
   {
     name: "Word Counter",
-    imgsrc: "./images/WordCounter.png",
+    imgsrc: "./images/WordCounter.webp",
     github: "https://github.com/ayushmangarg2003/wordCounter",
     website: "https://ayushmangarg2003.github.io/wordCounter/",
     tags: "Javascript",
@@ -308,7 +308,7 @@ let projects = [
   },
   {
     name: "Music Player",
-    imgsrc: "./images/MusicPlayer.png",
+    imgsrc: "./images/MusicPlayer.webp",
     github: "https://github.com/ayushmangarg2003/MusicPlayer",
     website: "https://ayushmangarg2003.github.io/MusicPlayer/",
     tags: "Javascript",
@@ -317,7 +317,7 @@ let projects = [
   },
   {
     name: "Books To do",
-    imgsrc: "./images/BooksToDo.png",
+    imgsrc: "./images/BooksToDo.webp",
     github: "https://github.com/ayushmangarg2003/BooksToDo",
     website: "https://ayushmangarg2003.github.io/BooksToDo/",
     tags: "Javascript",
@@ -326,7 +326,7 @@ let projects = [
   },
   {
     name: "Rapido Clone",
-    imgsrc: "./images/RapidoClone.png",
+    imgsrc: "./images/RapidoClone.webp",
     github: "https://github.com/ayushmangarg2003/RapidoClone",
     website: "https://ayushmangarg2003.github.io/RapidoClone/",
     tags: "CSS",
@@ -335,7 +335,7 @@ let projects = [
   },
   {
     name: "OlaClone",
-    imgsrc: "./images/OlaClone.png",
+    imgsrc: "./images/OlaClone.webp",
     github: "https://github.com/ayushmangarg2003/OlaClone",
     website: "https://ayushmangarg2003.github.io/OlaClone/",
     tags: "CSS",
@@ -344,7 +344,7 @@ let projects = [
   },
   {
     name: "Profile Card",
-    imgsrc: "./images/ProfileCard.png",
+    imgsrc: "./images/ProfileCard.webp",
     github: "https://github.com/ayushmangarg2003/profile",
     website: "https://ayushmangarg2003.github.io/profile/",
     tags: "CSS",
@@ -353,7 +353,7 @@ let projects = [
   },
   {
     name: "Digital Clock",
-    imgsrc: "./images/DigitalClock.png",
+    imgsrc: "./images/DigitalClock.webp",
     github: "https://github.com/ayushmangarg2003/DigitalClock",
     website: "https://ayushmangarg2003.github.io/DigitalClock/",
     tags: "Javascript",
@@ -362,7 +362,7 @@ let projects = [
   },
   {
     name: "TextUtils",
-    imgsrc: "./images/TextUtils.png",
+    imgsrc: "./images/TextUtils.webp",
     github: "https://github.com/ayushmangarg2003/textutils",
     website: "https://ayushmangarg2003.github.io/textutils/",
     tags: "React",
@@ -371,7 +371,7 @@ let projects = [
   },
   {
     name: "Microsoft Clone",
-    imgsrc: "./images/MicrosoftClone.png",
+    imgsrc: "./images/MicrosoftClone.webp",
     github: "https://github.com/ayushmangarg2003/MicrosoftClone",
     website: "https://ayushmangarg2003.github.io/MicrosoftClone/",
     tags: "CSS",
@@ -380,7 +380,7 @@ let projects = [
   },
   {
     name: "Tesla Clone",
-    imgsrc: "./images/TeslaClone.png",
+    imgsrc: "./images/TeslaClone.webp",
     github: "https://github.com/ayushmangarg2003/TeslaClone",
     website: "https://ayushmangarg2003.github.io/TeslaClone/",
     tags: "CSS",
@@ -389,7 +389,7 @@ let projects = [
   },
   {
     name: "Portfolio",
-    imgsrc: "./images/PortfolioOld.png",
+    imgsrc: "./images/PortfolioOld.webp",
     github: "https://github.com/ayushmangarg2003/portfolio",
     website: "https://ayushmangarg2003.github.io/portfolio/",
     tags: "CSS",
@@ -398,7 +398,7 @@ let projects = [
   },
   {
     name: "aCodeBootstrap",
-    imgsrc: "./images/aCodeBootstrap.png",
+    imgsrc: "./images/aCodeBootstrap.webp",
     github: "https://github.com/ayushmangarg2003/aCodebootstrap",
     website: "https://ayushmangarg2003.github.io/aCodebootstrap/",
     tags: "Bootstrap",
