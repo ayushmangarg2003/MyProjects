@@ -2,8 +2,7 @@
 This Site contains all my Projects 
 
 ## Link to Website
-https://ayushmangarg2003.github.io/MyProjects/
-AND
+https://ayushmanprojects.vercel.app/ AND
 https://my-projects-smoky-two.vercel.app/
 
 ## Screenshot of website
