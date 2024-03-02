@@ -1,6 +1,6 @@
 let projects = [
    {
-    name: "JournalHub ",
+    name: "JournalHub",
     imgsrc: "./images/journal.webp",
     github: "https://github.com/ayushmangarg2003/Journal",
     website: "https://journalhub.vercel.app/",
