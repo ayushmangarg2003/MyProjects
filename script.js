@@ -9,6 +9,15 @@ let projects = [
     year: "2024",
   },
    {
+    name: "PDF_Chat",
+    imgsrc: "./images/pdfchat.webp",
+    github: "https://github.com/ayushmangarg2003/pdf_chat",
+    website: "https://github.com/ayushmangarg2003/pdf_chat",
+    tags: "Machine Learning",
+    month: "February",
+    year: "2024",
+  },
+   {
     name: "Youtube Summarizer",
     imgsrc: "./images/YTT.webp",
     github: "https://github.com/ayushmangarg2003/YT_Video_Summarizer",
