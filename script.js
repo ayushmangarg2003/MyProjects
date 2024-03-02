@@ -1,5 +1,14 @@
 let projects = [
    {
+    name: "JournalHub ",
+    imgsrc: "./images/journal.webp",
+    github: "https://github.com/ayushmangarg2003/Journal",
+    website: "https://journalhub.vercel.app/",
+    tags: "MERN Stack",
+    month: "February",
+    year: "2024",
+  },
+   {
     name: "Youtube Summarizer",
     imgsrc: "./images/YTT.webp",
     github: "https://github.com/ayushmangarg2003/YT_Video_Summarizer",
