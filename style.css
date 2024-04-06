@@ -39,7 +39,7 @@ html{
 }
 
 .cards-container{
-    padding: 5rem 0;
+    padding: 5rem 1rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -65,7 +65,7 @@ html{
     border-right: 7.5px solid transparent;
     display: flex;
     justify-content: flex-start;
-    font-weight: 800;
+    font-weight: 600;
     align-items: baseline;
     color: #32CD32;
 }
@@ -99,7 +99,7 @@ html{
     background-color: #32CD32;
 }
 .btn2:hover{
-    background-color:#fff
+    background-color:#f6f6f6;
 }
 .btn:hover a , .btn2:hover a{
     color: #212121;
@@ -149,5 +149,9 @@ footer span{
     }
     .navRight .btn2{
         padding: 5px 10px;
+    }
+    .card img{
+        width:275px;
+        height:150px;
     }
 }
