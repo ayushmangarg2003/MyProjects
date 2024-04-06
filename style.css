@@ -48,7 +48,7 @@ html{
 .card{
     padding: 0.5rem;
     border-radius: 4px;
-    box-shadow: 2px 2px 10px rgba(37, 37, 37 , 0.5);
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     margin-bottom: 4rem;
 }
 .tags{
