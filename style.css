@@ -39,7 +39,7 @@ html{
 }
 
 .cards-container{
-    padding: 5rem;
+    padding: 5rem 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
