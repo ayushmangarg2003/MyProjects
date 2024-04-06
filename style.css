@@ -140,6 +140,9 @@ footer span{
 }
 
 @media screen and (max-width:500px) {
+    .cards-container{
+        padding: 5rem 0rem;
+    }
     .navbar{
         padding: 1rem 1rem;
         align-items: baseline;
@@ -148,7 +151,7 @@ footer span{
         font-size: 1.2rem;
     }
     .navRight .btn2{
-        padding: 5px 10px;
+        padding: 10px 5px;
     }
     .card img{
         width:275px;
