@@ -1,15 +1,24 @@
 let projects = [
+    {
+    name: "Homestayz",
+    imgsrc: "./images/homestayz.webp",
+    github: "https://github.com/ayushmangarg2003/homestayz",
+    website: "https://homestayz.vercel.app/",
+    tags: "MERN",
+    month: "March",
+    year: "2024",
+  },
    {
     name: "JournalHub",
     imgsrc: "./images/journal.webp",
     github: "https://github.com/ayushmangarg2003/Journal",
     website: "https://journalhub.vercel.app/",
-    tags: "MERN Stack",
+    tags: "MERN",
     month: "February",
     year: "2024",
   },
    {
-    name: "PDF_Chat",
+    name: "PDF Chat",
     imgsrc: "./images/pdfchat.webp",
     github: "https://github.com/ayushmangarg2003/pdf_chat",
     website: "https://github.com/ayushmangarg2003/pdf_chat",
@@ -45,7 +54,7 @@ let projects = [
     year: "2024",
   },
    {
-    name: "Blogs App",
+    name: "True Blogs",
     imgsrc: "./images/MERNBLOG.webp",
     github: "https://github.com/ayushmangarg2003/Blogs_MERN",
     website: "https://blogs-mern-pi.vercel.app/",
@@ -73,7 +82,7 @@ let projects = [
   },
   
   {
-    name: "Blogs-Mobile",
+    name: "TrueBlogs App",
     imgsrc: "./images/Blogs_Mob.webp",
     github: "https://github.com/ayushmangarg2003/blogs_mobile",
     website: "https://www.linkedin.com/posts/ayushmangarg_reactnative-nodejs-mongodb-activity-7100354878492868609-PP27?utm_source=share&utm_medium=member_desktop",
@@ -82,7 +91,7 @@ let projects = [
     year: "2023",
   },
   {
-    name: "TravelArc-Mobile",
+    name: "TravelArc App",
     imgsrc: "./images/TA_Mobile.webp",
     github: "https://github.com/ayushmangarg2003/TravelArc-Mobile",
     website: "https://github.com/ayushmangarg2003/TravelArc-Mobile",
@@ -91,7 +100,7 @@ let projects = [
     year: "2023",
   },
   {
-    name: "Currency Converter",
+    name: "Currency Converter App",
     imgsrc: "./images/CCReactnative.webp",
     github: "https://github.com/ayushmangarg2003/currency_converter_react_native",
     website: "https://github.com/ayushmangarg2003/currency_converter_react_native",
@@ -100,7 +109,7 @@ let projects = [
     year: "2023",
   },
   {
-    name: "Password Generator",
+    name: "Password Generator App",
     imgsrc: "./images/PassGen.webp",
     github: "https://github.com/ayushmangarg2003/Password-Generator-ReactNative",
     website: "https://github.com/ayushmangarg2003/Password-Generator-ReactNative",
@@ -109,7 +118,7 @@ let projects = [
     year: "2023",
   },
   {
-    name: "TrueBlog",
+    name: "TrueBlog SQL",
     imgsrc: "./images/trueblog.webp",
     github: "https://github.com/ayushmangarg2003/Blogs_MySQL",
     website: "https://blogs-my-sql.vercel.app/",
@@ -118,7 +127,7 @@ let projects = [
     year: "2023",
   },
   {
-    name: "Workout App",
+    name: "Workouts",
     imgsrc: "./images/Workout.webp",
     github: "https://github.com/ayushmangarg2003/Workout_app_MERN",
     website: "https://workout-app-mern.vercel.app/",
@@ -136,7 +145,7 @@ let projects = [
     year: "2023",
   },
   {
-    name: "Code Editor",
+    name: "CodeEditor",
     imgsrc: "./images/code-editor.webp",
     github: "https://github.com/ayushmangarg2003/Code_Editor",
     website: "https://ayushmangarg2003.github.io/Code_Editor/",
@@ -145,7 +154,7 @@ let projects = [
     year: "2023",
   },
   {
-    name: "Web Agent",
+    name: "Web Agents",
     imgsrc: "./images/WebAgent.webp",
     github: "https://github.com/ayushmangarg2003/web-agent-react-styled-components",
     website: "https://web-agent-react-styled-components.vercel.app/",
@@ -199,7 +208,7 @@ let projects = [
     year: "2022",
   },
   {
-    name: "Hackaton Project",
+    name: "DocOnTap",
     imgsrc: "./images/UserInterface.webp",
     github: "https://github.com/ayushmangarg2003/UserInterface",
     website: "https://user-interface-beta.vercel.app/",
@@ -235,7 +244,7 @@ let projects = [
     year: "2022",
   },
   {
-    name: "VibeTypeApp",
+    name: "Vibe Type",
     imgsrc: "./images/VibeTypeApp.webp",
     github: "https://github.com/ayushmangarg2003/VibeTypeApp",
     website: "https://ayushmangarg2003.github.io/VibeTypeApp/",
@@ -244,7 +253,7 @@ let projects = [
     year: "2022",
   },
   {
-    name: "Weather App",
+    name: "Weather",
     imgsrc: "./images/WeatherApp.webp",
     github: "https://github.com/ayushmangarg2003/WeatherApp",
     website: "https://ayushmangarg2003.github.io/WeatherApp/",
@@ -253,7 +262,7 @@ let projects = [
     year: "2022",
   },
   {
-    name: "Food Recipe App",
+    name: "Food Recipe",
     imgsrc: "./images/FoodRecipe.webp",
     github: "https://github.com/ayushmangarg2003/FoodRecipeApp",
     website: "https://ayushmangarg2003.github.io/FoodRecipeApp/",
@@ -262,7 +271,7 @@ let projects = [
     year: "2022",
   },
   {
-    name: "Movie Review App",
+    name: "Movie Reviews",
     imgsrc: "./images/MovieReview.webp",
     github: "https://github.com/ayushmangarg2003/MovieReviewApp",
     website: "https://ayushmangarg2003.github.io/MovieReviewApp/",
@@ -298,7 +307,7 @@ let projects = [
     year: "2022",
   },
   {
-    name: "Karobar Website",
+    name: "Karobar",
     imgsrc: "./images/Karobar.webp",
     github: "https://github.com/ayushmangarg2003/karobarwebsite",
     website: "https://ayushmangarg2003.github.io/karobarwebsite/",
@@ -424,17 +433,6 @@ let projects = [
     year: "2022",
   },
 ];
-
-
-
-
-
-
-
-
-
-
-
 
 
 const cardContainer = document.getElementById("cards-container");
