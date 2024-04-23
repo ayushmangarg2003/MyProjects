@@ -38,8 +38,8 @@ let projects = [
    {
     name: "Calorie Counter",
     imgsrc: "./images/CalCounter.webp",
-    github: "https://github.com/ayushmangarg2003/YT_Video_Summarizer",
-    website: "https://github.com/ayushmangarg2003/YT_Video_Summarizer",
+    github: "https://github.com/ayushmangarg2003/CalorieCounter",
+    website: "https://github.com/ayushmangarg2003/CalorieCounter",
     tags: "Machine Learning",
     month: "January",
     year: "2024",
