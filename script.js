@@ -1,5 +1,23 @@
 let projects = [
     {
+    name: "Genesis AI",
+    imgsrc: "./images/soapnotes.webp",
+    github: "https://github.com/ayushmangarg2003",
+    website: "https://soapnotes.vercel.app/",
+    tags: "Shipfast",
+    month: "Aug-Oct",
+    year: "2024",
+  },
+    {
+    name: "Swaagfun",
+    imgsrc: "./images/sawwgfun.png",
+    github: "https://github.com/ayushmangarg2003",
+    website: "https://swaagfun.vercel.app/",
+    tags: "MERN",
+    month: "Jun-Jul",
+    year: "2024",
+  },
+    {
     name: "Homestayz",
     imgsrc: "./images/homestayz.webp",
     github: "https://github.com/ayushmangarg2003/homestayz",
