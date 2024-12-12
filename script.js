@@ -1,7 +1,7 @@
 let projects = [
     {
     name: "Genesis AI",
-    imgsrc: "./images/soapnotes.webp",
+    imgsrc: "./images/soapnotes.png",
     github: "https://github.com/ayushmangarg2003",
     website: "https://soapnotes.vercel.app/",
     tags: "Shipfast",
@@ -10,7 +10,7 @@ let projects = [
   },
     {
     name: "Swaagfun",
-    imgsrc: "./images/sawwgfun.png",
+    imgsrc: "./images/swaagfun.png",
     github: "https://github.com/ayushmangarg2003",
     website: "https://swaagfun.vercel.app/",
     tags: "MERN",
